@@ -1,0 +1,16 @@
+{
+    "name": "brightvessel/woocommerce-order-categories",
+    "description": "Categories for WooCommerce orders",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Team Bright Vessel",
+            "email": "support@brightvessel.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Woocommerce_Order_Categories\\": "src/"
+        }
+    }
+}
